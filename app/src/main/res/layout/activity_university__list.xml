@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:background="@color/floralwhite"
+    tools:context=".University_List">
+
+    <ScrollView
+        android:id="@+id/universityScrollView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/duView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:background="@color/oldlace">
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:src="@drawable/du_logo"
+                    android:background="@color/oldlace"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:layout_marginTop="10dp"
+                    android:paddingLeft="10dp"
+                    android:text="@string/du"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/navyblue"
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/dmcView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:background="@color/oldlace"
+                android:layout_marginTop="5dp">
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:src="@drawable/dmc_logo"
+                    android:background="@color/oldlace"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:layout_marginTop="10dp"
+                    android:paddingLeft="10dp"
+                    android:text="@string/dmc"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/navyblue"
+                    />
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:id="@+id/buetView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:background="@color/oldlace"
+                android:layout_marginTop="5dp">
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:src="@drawable/buet_logo"
+                    android:background="@color/oldlace"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:layout_marginTop="10dp"
+                    android:paddingLeft="10dp"
+                    android:text="@string/buet"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/navyblue"
+                    />
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:id="@+id/nsuView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:background="@color/oldlace"
+                android:layout_marginTop="5dp">
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:src="@drawable/nsu_logo"
+                    android:background="@color/oldlace"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:layout_marginTop="10dp"
+                    android:paddingLeft="10dp"
+                    android:text="@string/nsu"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/navyblue"
+                    />
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:id="@+id/aiubView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:background="@color/oldlace"
+                android:layout_marginTop="5dp">
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:src="@drawable/aiub_logo"
+                    android:background="@color/oldlace"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:layout_marginTop="10dp"
+                    android:paddingLeft="10dp"
+                    android:text="@string/aiub"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/navyblue"
+                    />
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:id="@+id/austView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:background="@color/oldlace"
+                android:layout_marginTop="5dp">
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:src="@drawable/aust_logo"
+                    android:background="@color/oldlace"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:layout_marginTop="10dp"
+                    android:paddingLeft="10dp"
+                    android:text="@string/aust"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/navyblue"
+                    />
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:id="@+id/ewuView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:background="@color/oldlace"
+                android:layout_marginTop="5dp">
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:src="@drawable/ewu_logo"
+                    android:background="@color/oldlace"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:layout_marginTop="10dp"
+                    android:paddingLeft="10dp"
+                    android:text="@string/ewu"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/navyblue"
+                    />
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:id="@+id/brackView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:background="@color/oldlace"
+                android:layout_marginTop="5dp">
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:src="@drawable/brac_logo"
+                    android:background="@color/oldlace"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:layout_marginTop="10dp"
+                    android:paddingLeft="10dp"
+                    android:text="@string/brack"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/navyblue"
+                    />
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:id="@+id/uapView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:background="@color/oldlace"
+                android:layout_marginTop="5dp">
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:src="@drawable/uap_logo"
+                    android:background="@color/oldlace"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:layout_marginTop="10dp"
+                    android:paddingLeft="10dp"
+                    android:text="@string/uap"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/navyblue"
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/daffodilView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:background="@color/oldlace"
+                android:layout_marginTop="5dp">
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:src="@drawable/daffodil_logo"
+                    android:background="@color/oldlace"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:layout_marginTop="10dp"
+                    android:paddingLeft="10dp"
+                    android:text="@string/daffodil"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/navyblue"
+                    />
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:id="@+id/iubView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:background="@color/oldlace"
+                android:layout_marginTop="5dp">
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:src="@drawable/iub_logo"
+                    android:background="@color/oldlace"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:layout_marginTop="10dp"
+                    android:paddingLeft="10dp"
+                    android:text="@string/iub"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/navyblue"
+                    />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ulabView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal"
+                android:background="@color/oldlace"
+                android:layout_marginTop="5dp">
+
+                <ImageView
+                    android:layout_width="100dp"
+                    android:layout_height="100dp"
+                    android:src="@drawable/ulab_logo"
+                    android:background="@color/oldlace"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:layout_marginTop="10dp"
+                    android:paddingLeft="10dp"
+                    android:text="@string/ulab"
+                    android:textSize="20sp"
+                    android:textStyle="bold"
+                    android:textColor="@color/navyblue"
+                    />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

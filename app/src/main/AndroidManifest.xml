@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.user.iinfo">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_info"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".Splash_Screen"
+            android:theme="@style/SplashAppTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity" />
+        <activity android:name=".University_List" />
+        <activity android:name=".Dhaka_University" />
+        <activity
+            android:name=".Dhaka_University_Webview"
+            android:theme="@style/SplashAppTheme" />
+        <activity android:name=".DMC" />
+        <activity
+            android:name=".DMC_Webview"
+            android:theme="@style/SplashAppTheme" />
+        <activity android:name=".BUET" />
+        <activity
+            android:name=".BUET_Webview"
+            android:theme="@style/SplashAppTheme" />
+        <activity android:name=".NSU" />
+        <activity
+            android:name=".NSU_Webview"
+            android:theme="@style/SplashAppTheme" />
+        <activity android:name=".AIUB" />
+        <activity
+            android:name=".AIUB_Webview"
+            android:theme="@style/SplashAppTheme" />
+        <activity android:name=".AUST" />
+        <activity
+            android:name=".AUST_Webview"
+            android:theme="@style/SplashAppTheme" />
+        <activity android:name=".EWU" />
+        <activity
+            android:name=".EWU_Webview"
+            android:theme="@style/SplashAppTheme" />
+        <activity android:name=".BRACK" />
+        <activity
+            android:name=".BRACK_Webview"
+            android:theme="@style/SplashAppTheme" />
+        <activity android:name=".UAP" />
+        <activity
+            android:name=".UAP_Webview"
+            android:theme="@style/SplashAppTheme" />
+        <activity android:name=".Daffodil" />
+        <activity
+            android:name=".Daffodil_Webview"
+            android:theme="@style/SplashAppTheme" />
+        <activity android:name=".IUB" />
+        <activity
+            android:name=".IUB_Webview"
+            android:theme="@style/SplashAppTheme" />
+        <activity android:name=".ULAB" />
+        <activity
+            android:name=".ULAB_Webview"
+            android:theme="@style/SplashAppTheme" />
+        <activity android:name=".Hospital_List" />
+        <activity android:name=".Square" />
+        <activity
+            android:name=".Square_Webview"
+            android:theme="@style/SplashAppTheme" />
+        <activity android:name=".IbnSina" />
+        <activity
+            android:name=".IbnSina_Webview"
+            android:theme="@style/SplashAppTheme" />
+        <activity android:name=".CityHospital" />
+        <activity
+            android:name=".CityHospital_Webview"
+            android:theme="@style/SplashAppTheme" />
+        <activity android:name=".LabAid" />
+        <activity
+            android:name=".LabAid_Webview"
+            android:theme="@style/SplashAppTheme" />
+        <activity android:name=".Appollo" />
+        <activity
+            android:name=".Appollo_Webview"
+            android:theme="@style/SplashAppTheme" />
+        <activity android:name=".Popular" />
+        <activity
+            android:name=".Popular_Webview"
+            android:theme="@style/SplashAppTheme" />
+        <activity android:name=".Restaurant_List" />
+        <activity android:name=".Bar_B_Q" />
+        <activity
+            android:name=".Bar_B_Q_Webview"
+            android:theme="@style/SplashAppTheme" />
+        <activity android:name=".Sabroso" />
+        <activity
+            android:name=".Sabroso_Webview"
+            android:theme="@style/SplashAppTheme" />
+        <activity android:name=".Nandos" />
+        <activity
+            android:name=".Nandos_Websiteview"
+            android:theme="@style/SplashAppTheme" />
+        <activity
+            android:name=".Nandos_Facebookview"
+            android:theme="@style/SplashAppTheme" />
+        <activity android:name=".TakeOut" />
+        <activity
+            android:name=".TakeOut_Webview"
+            android:theme="@style/SplashAppTheme" />
+        <activity android:name=".Handi" />
+        <activity
+            android:name=".Handi_Webview"
+            android:theme="@style/SplashAppTheme" />
+        <activity android:name=".Travels_List" />
+        <activity android:name=".Banks_List"></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,328 @@
+<resources>
+    <string name="app_name">iInfo</string>
+    <string name="university">University</string>
+    <string name="hospital">Hospital</string>
+    <string name="restaurant">Restaurant</string>
+    <string name="travel">Travels</string>
+    <string name="bank">Banks</string>
+    <string name="splash">Welcome</string>
+
+
+    <string name="du">University of Dhaka</string>
+    <string name="dmc">Dhaka Medical College and Hospital</string>
+    <string name="buet">Bangladesh University of Engineering and Technology</string>
+    <string name="nsu">North South University</string>
+    <string name="aiub">American International University-Bangladesh</string>
+    <string name="aust">Ahsanullah University of Science and Technology</string>
+    <string name="ewu">East West University</string>
+    <string name="brack">BRAC University</string>
+    <string name="uap">University of Asia Pacific</string>
+    <string name="daffodil">Daffodil International University</string>
+    <string name="iub">Independent University, Bangladesh</string>
+    <string name="ulab">University of Liberal Arts Bangladesh</string>
+
+
+    <string name="square">Square Hospital</string>
+    <string name="ibn_sina">Ibn Sina Hospital</string>
+    <string name="city_hospital">City Hospital</string>
+    <string name="labaid">Labaid Specialized Hospital</string>
+    <string name="popular">Popular Medical College Hospital</string>
+    <string name="appollo">Apollo Hospitals Dhaka</string>
+
+
+    <string name="bar_b_q">Bar B Q Tonite</string>
+    <string name="sabroso">Sabroso</string>
+    <string name="nandos">Nandos Dhanmondi</string>
+    <string name="takeout">Takeout Dhanmondi</string>
+    <string name="handi">Handi</string>
+
+
+    <string name="more_info">For more information......</string>
+    <string name="hospital_website">Website  :</string>
+    <string name="facebook">Facebook : </string>
+
+
+    <string name="du_details1">The University of Dhaka (Bengali: ঢাকা বিশ্ববিদ্যালয় and also known as
+        Dhaka University or simply DU) is the oldest university in modern Bangladesh. The university is ranked number
+        one on the Bangladesh University Ranking 2017. Established in 1921 during the British Raj, it has made
+        significant contributions to the modern history of Bangladesh. After the Partition of India, it
+        became the focal point of progressive and democratic movements in Pakistan. Its students and teachers played
+        a central role in the rise of Bengali nationalism and the independence of Bangladesh.</string>
+
+    <string name="du_details2">The university distinguished alumni include Fazlur Rahman Khan (pioneer of modern structural
+        engineering), Muhammad Yunus (winner of the 2006 Nobel Peace Prize, pioneer of Microcredit), Muhammad Shahidullah
+        (famous educator, philologist, and linguist), Natyaguru Nurul Momen (the pioneer trailblazer of progressive
+        culture, theatre, literature, performing arts, philosophy and arts; who was both an early student and a teacher
+        as well, of Dhaka University), Serajul Islam Choudhury (the country's leading public intellectual and writer),
+        Rehman Sobhan (social democratic economist), Mohammad Ataul Karim (physicist), Abul Fateh
+        (one of the founding fathers of South Asian diplomacy), Buddhadeb Bose (20th-century Bengali poet),
+        and Sheikh Mujibur Rahman (the founding father of Bangladesh).
+        It also enjoyed associations with Satyendra Nath Bose, Vijayaraghavan, and Kazi Nazrul Islam.</string>
+
+    <string name="du_details3">Today, it is the largest public university in Bangladesh, with a student body of 33,000
+        and a faculty of 1,800.It was identified by AsiaWeek as one of the top 100 universities in Asia. However,
+        since the 1990s,the university has suffered from intensely politicized, partisan, and violent campus politics
+        promoted by Bangladesh's political parties</string>
+
+
+    <string name="dmc_details1">The college original building was built before the Partition of Bengal of 1905; being used,
+        as of 1904, as the secretariat (headquarters) of the newly formed provinces of East Bengal and Assam; then,
+        in 1921, turned over to the University of Dhaka, which was founded that year. At that time a part of the huge
+        building was used as the university medical center, another part as the students' dormitory and the rest
+        as the office of the administrative wing of the Arts faculty.
+
+        In 1939, the Dhaka university council requested that the British Government establish a separate medical college
+        in Dhaka. The proposal was postponed because of the onset of the Second World War.</string>
+
+    <string name="dmc_details2">During World War II the medical center building became an American armed forces hospital.
+        The Americans vacated the building at the end of the war.
+
+        Finally, Dhaka Medical College was established in 1946, and the college began admitting students.
+        Academic classes started on 10 July which is celebrated as "DMC DAY". The 1st year, beginning class, or "Batch",
+        was named K-5, 2nd year K-4, 3rd year K-3, 4th year K-2, and 5th year K-1. All the advanced students
+        (K-4 through K-1) had transferred from the Calcutta Medical College, in large part because of the partition of
+        India</string>
+
+    <string name="dmc_details3">At first there were no female students, but now about half of the students are females.</string>
+
+
+    <string name="buet_details1">Bangladesh University of Engineering and Technology (Bengali: বাংলাদেশ প্রকৌশল বিশ্ববিদ্যালয়়),
+        commonly known as BUET (pronounced [bue̯eʈ]; Bengali: বুয়েট), is a public university in Bangladesh, which focuses
+        on the study of engineering and architecture. Founded in 1912, it is the oldest institution for the study of
+        engineering, architecture and urban planning inBangladesh.</string>
+
+    <string name="buet_details2">Every year, around 1055 students get accepted to their undergraduate programs to study
+        engineering, architecture, and urban planning. Of the 10,000 candidates selected to write the undergraduate
+        admission test from an initial application pool of over 10,000 applicants, only about the top 10% are admitted.
+        Around 1000 graduate students are accepted into their Masters and PhD programmes on an annual basis.
+        The total number of teachers is around 600. With the construction of new academic buildings, an auditorium complex,
+        and halls of residence, the university has continued to expand over the last three decades. BUET has been ranked
+        135th among the Asian universities in the 2018 edition of QS World University Rankings.</string>
+
+    <string name="buet_details3">Dacca Survey School was established in 1876 as a survey school at Nalgola,
+        west of the current Sir Salimullah Medical College campus, in Old Dhaka by the then Government of
+        Bengal under British Raj.[5] It offered a survey course of two years to train land surveyors, at the end
+        of which students competed at the Sub-Overseer examination. According to a report on public instruction in Bengal,
+        on 31 March 1903, Dacca Survey School had 117 students of which 103 were Hindus and 14 were Muslims. In 1908,
+        the school started to offer diploma degrees. Khwaja Ahsanullah, a philanthropist and member of the
+        Dhaka Nawab Family, endowed donations for developing the survey school. After his death in 1901, his son,
+        the then Nawab of Dhaka, Khwaja Salimullah released 112,000 rupees grant in 1902 in accordance.
+        As an acknowledgement of this contribution, the school was renamed to Ahsanullah School of Engineering.</string>
+
+
+    <string name="nsu_details1">North South University (Bengali: নর্থ সাউথ বিশ্ববিদ্যালয়, also known as NSU) is the first
+        non-government university in Bangladesh. Its Business School is also the first in Bangladesh to receive
+        American accreditation from ACBSP.</string>
+
+    <string name="nsu_details2">The government of Bangladesh approved the establishment of North South University in 1992
+        under the Private University Act (PUA) 1992 (now replaced by PUA 2010). The university was formally inaugurated
+        on 10 February 1993, by Prime Minister Khaleda Zia.</string>
+
+    <string name="nsu_details3">The university ranked 1st among the private universities and 12th among all the
+        universities in research output on the Bangladesh University Ranking 2017</string>
+
+
+    <string name="aiub_details1">American International University-Bangladesh (Bengali: আমেরিকান ইন্টারন্যাশনাল ইউনিভার্সিটি-বাংলাদেশ),
+        commonly known as AIUB is an accredited and renowned private university located at Kuratoli Road, Kuril in Dhaka,
+        Bangladesh. The university is an independent organization with own Board of Trustees. It offers several degree
+        programs at graduate and undergraduate level from four faculties, particularly in the field of engineering and
+        business studies.</string>
+
+    <string name="aiub_details2">The university was established in 1994 as AMA International University Bangladesh,
+        a joint venture between AMA Computer University of the Philippines, and local sponsor Anwarul Abedin.
+        Regular academic classes started in 1995. AMA Computer University later left the partnership, and in 2001
+        the university was renamed American International University-Bangladesh..</string>
+
+    <string name="aiub_details3">The University is located at Kuratoli Road, Khilkhet, Dhaka. The campus area is about
+        30 acres (12 ha). A total building area of 1,300,000 square feet (120,000 m2) is being utilized for academic
+        programs both undergraduate and graduate. The construction of main academic building is under-process.
+        Currently, AIUB operates it's all academic activities in 7 annex buildings. The library will be shifted to the
+        iconic round-shaped building very soon.</string>
+
+
+    <string name="aust_details1">Ahsanullah University of Science and Technology (Bengali: আহ্ছানউল্লা বিজ্ঞান ও প্রযুক্তি বিশ্ববিদ্যালয়)
+        or commonly known as AUST is the first non-government engineering university to be established in Bangladesh.
+        The University is considered as one of the finest engineering universities and the leading non-government
+        engineering university in Bangladesh, which was founded by the Dhaka Ahsania Mission in 1995.
+        Dhaka Ahsania Mission is a non-profit voluntary organization in Bangladesh. The Mission was established in 1958
+        by Khan Bahadur Ahsanullah.</string>
+
+    <string name="aust_details2">The permanent Campus of the University has been built on 5-bighas (1.6 acres) of land
+        at Tejgaon Industrial Area which is located in the heart of Dhaka City. The land use in this area is quickly
+        changing from an industrial area to a commercial area. The 10-storied building including 2-level basement has a
+        total floor area of more than 4 lac sq.ft.</string>
+
+    <string name="aust_details3">Continuous power and water supply is ensured by its own two generators, each of 1000 KVA,
+        2500 KVA sub-station and 4-inch Dia. deep tube-well. The campus also provides facilities for co-curricular
+        activities like common rooms (male and female), indoor game rooms, etc. as well as space for car parking and heavy
+        machinery labs in the basements.</string>
+
+
+    <string name="ewu_details1">East West University (Bengali: ইস্ট ওয়েস্ট বিশ্ববিদ্যালয়, also known as EWU),
+        is a private university located in Aftabnagar, Dhaka of Bangladesh</string>
+
+    <string name="ewu_details2">The culture of private universities in Bangladesh started in the early 1990s.
+        During that period, the government felt that the existing public universities were not sufficient to meet the
+        demand for tertiary education in the country. Moreover, to maintain their quality of education, most of the
+        public universities in Bangladesh kept themselves selective and as a result, each year a large number of students
+        failed to get admitted into higher educational institutions.</string>
+
+    <string name="ewu_details3">These issues led the government to permit the establishment of private universities,
+        and on 9 August 1992, the Private University Act (Act 34) 1992 was passed.</string>
+
+    <string name="brack_details1">BRAC University (BRACU) is a private University in Bangladesh.
+        It was founded as a branch of the BRAC organization by Fazle Hasan Abed in 2001 under the Private University Act,
+        1991.</string>
+
+    <string name="brack_details2">Fazle Hasan Abed, a Bangladeshi social worker is the founder of BRAC University</string>
+
+    <string name="brack_details3">The campus of BRACU is located at Mohakhali, Dhaka. The university is also building its
+        permanent campus located at Pragati Sarani, Dhaka. The university is supposed to shift to its permanent
+        campus by 2021.</string>
+
+    <string name="uap_details1">University of Asia Pacific - UAP (ইউনিভার্সিটি অব এশিয়া প্যাসিফিক) is a private university
+        located at Dhaka, Bangladesh</string>
+
+    <string name="uap_details2">University of Asia Pacific (UAP) was established in 1996 as a private university under
+        the Private University Act 1992. Its curriculum has been approved by The University Grants Commission of the
+        Government of the Peoples Republic of Bangladesh. The university started its operation in the first semester of
+        classes in 1996, and offered four-year bachelor's degree programs in Computer Science and Technology and Business
+        Administration only. Now UAP offers undergraduate programs in English, Law, Architecture, Business Administration,
+        Civil Engineering, Computer Science and Engineering, Electrical and Electronic Engineering and Pharmacy.</string>
+
+    <string name="uap_details3">UAP has been sponsored by University of Asia Pacific Foundation, a non-profit,
+        non-commercial organisation based in Dhaka, Bangladesh.</string>
+
+
+    <string name="daffodil_details1">Daffodil International University (DIU; Bengali: ড্যাফোডিল আন্তর্জাতিক বিশ্ববিদ্যালয়])
+        is a co-educational private university located in Dhanmondi, Dhaka, Bangladesh. It was established on 24 January
+        2002 under the Private University Act, 1992.</string>
+
+    <string name="daffodil_details2">DIU is the first university in Bangladesh to have signed the UN Commitment to
+        Sustainable Practices of Higher Education Institutions</string>
+
+    <string name="daffodil_details3">The university was established in 2002 with the approval of the University
+        Grants Commission (Bangladesh) and the Government of Bangladesh's Ministry of Education.</string>
+
+
+    <string name="iub_details1">Independent University, Bangladesh (Bengali: ইন্ডিপেন্ডেন্ট বিশ্ববিদ্যালয়) or IUB is a
+        university located in Bashundhara R/A, Dhaka, Bangladesh. The business school of the university has received
+        American accreditation from ACBSP. It was established in 1993 by the Private University Act, 1992.</string>
+
+    <string name="iub_details2">The school offers an undergraduate Bachelor of Business Administration (BBA) degree.
+        Available areas of concentration are accounting, finance, general management, human resource management,
+        international business, management information systems, and marketing.</string>
+
+    <string name="iub_details3">The school offers an MBA degree. Students are allowed up to five years from the date of
+        initial enrollment to complete the degree requirements. It is possible to finish the program within five
+        semesters by taking the maximum course load, or within three semesters if students have waivers or transfer
+        courses. Available areas of concentration are: banking, finance, human resources management, and marketing.</string>
+
+
+    <string name="ulab_details1">University of Liberal Arts Bangladesh (Bengali: লিবারেল আর্টস বিশ্ববিদ্যালয় বাংলাদেশ) (ULAB)
+        is a private liberal arts-based University in Dhanmondi, Dhaka, Bangladesh.</string>
+
+    <string name="ulab_details2">Founded in February 2002, permission to open was received from the University
+        Grants Commission (UGC) of Bangladesh in November 2003, pursuant to the Private University Act 1992.</string>
+
+    <string name="ulab_details3">ULAB incorporates the values of Liberal Arts and Sustainability into its curricula,
+        through its General Education Department and its Center for sustainable development (CSD). ULAB is a
+        research-intensive University, with multiple research opportunities for its faculty
+        members and students</string>
+
+
+    <string name="square_details1">Square Hospitals Limited is a 400 beds tertiary care hospital and the leading contributor of private
+        healthcare services in Bangladesh. This has been achieved only through consistent commitment to improving
+        the lives of people through utmost service excellence since its inception on 16th December 2006. Square
+        Hospital is one of the ventures of Square Group which is the top business group of the country. The
+        reputation of Square Hospital is the result of quality clinical outcome and comprehensive care, made
+        achievable through world class integrated healthcare facilities by highly trained professionals. Thus,
+        Square Hospitals strives to meet patients’ standards through quality healthcare and making a difference
+        in their lives.</string>
+
+    <string name="square_details2">This hospital is an affiliate partner of Methodist Healthcare, Memphis, Tennessee, USA; Christian Medical
+        College-Vellore, India; Sing Health and Raffles Hospital, Singapore.</string>
+
+    <string name="square_details3">The outpatient department (OPD) of the hospital can serve up to 1800 patients daily, through 100+
+        consultation rooms. The outpatient services are open daily, except Friday, in a convenient morning,
+        afternoon and late evening hours. Other than that our ER (Emergency dept) is fully operational 24/7
+        round the year. Square Hospital has almost all departments of medical service under one roof which
+        enable us to deliver proper integrated services to our patients.</string>
+
+    <string name="ibn_sina_details1">Ibn Sina was born in 980 C.E. in the village of Afshana near Bukhara which today is located in the far south
+        of Russia. His father, Abdullah, an adherent of the Ismaili sect, was from Balkh and his mother from a
+        village near Bukhara.</string>
+
+    <string name="ibn_sina_details2">In any age Ibn Sina, known in the West as Avicenna, would have been a giant among giants. He displayed
+        exceptional intellectual prowess as a child and at the age of ten was already proficient in the Quran
+        and the Arabic classics. During the next six years he devoted himself to Muslim Jurisprudence, Philosophy
+        and Natural Science and studied Logic, Euclid, and the Almeagest.</string>
+
+
+    <string name="ibn_sina_details3">He turned his attention to Medicine at the age of 17 years and found it, in his own words, "not difficult".
+        However he was greatly troubled by metaphysical problems and in particular the works of Aristotle. By chance,
+        he obtained a manual on this subject by the celebrated philosopher al-Farabi which solved his difficulties.</string>
+
+    <string name="city_hospital_details1">City Hospital Ltd started on 19-02-1999 as 20 bed Specialized Burn and Plastic Surgery Hospital at 69/I/1,
+        Panthapath, Dhanmondi, Dhaka-1205, then shifted to Lalmatia, Dhaka from 15th July, 2006 as 150 beded general
+        hospital including 24 bed Burn and Plastic Surgery (8 High Dependency Unit beds and 16 general beds)</string>
+
+    <string name="city_hospital_details2">
+        Presently we have different specialties like Medicine, Diabetes and Endocrinology, Gynaecology and Obstetrics,
+        Neo-natology and Paediatric, Nephrology, Urology, ENT, Gastroenterology, General and Laparoscopic surgery,
+        Oncology,Haemato-oncology, Neuro-medicine, Orthopaedic, Spine and Arthroscopic Surgery, Dermatology, Dental
+        Surgery and Dental Implant and Physiotherapy</string>
+
+    <string name="city_hospital_details3">This hospital also has 8 beded Intensive Care Unit (I.C.U) and 6 beded Neonatal Intensive Care Unit (NICU)
+        and Dialysis.A number of reputed and experienced physicians, surgeons and other health professionals are
+        providing their best support round the clock.</string>
+
+    <string name="labaid_details1">Labaid Group adds yet another feather in its ornate cap - Labaid Hospital commissioned on 15 July 2004.
+        A new era in the field of care is dawned, a new chapter opened.</string>
+
+    <string name="labaid_details2">Labaid Hospital - the fist international standard super-specialty hospital of the country, dedicated
+        exclusively to the diagnosis and treatment of cardiovascular diseases have been built on a six storied
+        building at, Dhanmondi - a commercial cum residential hub of Dhaka City, covering a floor space of more
+        than 100000 sq. feet.</string>
+
+    <string name="labaid_details3">Equipped with most modern and state-of-the-art equipment and machineries, the Labaid Hospital makes a
+        solemn commitment to the patients of the country - a commitment to maintain mastery and marvel in acre,
+        to be compassionate and respectful to patients' beliefs and values and to make sound decision in the interest
+        of the patients.</string>
+
+    <string name="appollo_details1">Apollo Hospitals Dhaka is the only JCI Accredited 425-bed multi-disciplinary super-specialty tertiary care
+        hospital in Bangladesh, confidently providing comprehensive health care with the latest medical, surgical
+        and diagnostic facilities. These services are provided by expert medical professionals, skilled nurses and
+        technologists using state-of-the-art technology. The hospital started its operation on April 16, 2005 with
+        a mission to provide high quality international standard healthcare which will meet the needs and exceed the
+        expectations of the people of Bangladesh. It is an eleven-storied building built on four acres of land with
+        435,000 square feet floor space, which was constructed with assistance of renowned architecture company Smith
+        Group, USA. The hospital is a joint project of Apollo Hospitals Enterprise Limited and STS Holdings Limited
+        (STS Group).</string>
+
+    <string name="appollo_details2">Apollo Hospitals Dhaka has all the characteristics of a world-class hospital with wide range of services and
+        specialists, equipments and technology, ambience and service quality. The hospital is a showcase of synergy
+        of medical technology and advances in IT through paperless medical records. The skilled nurses, technologists
+        and administrators of Apollo Hospitals Dhaka, aided by state-of-the-art equipments, provide a congenial
+        infrastructure for the medical professionals in providing healthcare of international standards.</string>
+
+    <string name="appollo_details3">Since its inception to date, approximately 6,60,116 patients have registered with Apollo Hospitals Dhaka and
+        over 25,14,152 patients have availed out-patient consultation across over 29 disciplines. The hospital is the
+        first and only in Bangladesh to get accredited by Joint Commission International (JCI), which reassures its
+        continued commitment to the highest quality international standard of healthcare in the region. We are not
+        only about cutting-edge technology and performance-driven skill of our doctors and nurses, but we are also
+        about hope, as symbolized by the flames of hope in the torch on our logo.</string>
+
+    <string name="popular_details1">Since its inception in 2010 Popular Medical College has been engaged in producing
+        "doctors with a difference capable of taking the charge of the future". It is at the verge of fulfillment of
+        its commitment and the 1st batch of the students will appear in final professional examination of the
+        university in January 2016.</string>
+
+    <string name="popular_details2">The College has always emphasized on quality teachers, teaching materials
+        and student friendly environment.</string>
+
+    <string name="popular_details3">Dr. Mostafizur Rahman a young medical graduate managed to get transferred to Dhaka from the Thana Health
+        complex plotting to enable him to pursue a carrier in Surgery. He was posted in Central Pathology Laboratory
+        of Dhaka Medical College. Gradually he developed an interest in pathology and continued his service there.</string>
+
+</resources>
